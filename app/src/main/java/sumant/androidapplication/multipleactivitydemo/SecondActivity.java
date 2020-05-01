@@ -16,5 +16,6 @@ public class SecondActivity extends AppCompatActivity {
         // Second update from localDevelopment branch
 
         // Third update from local branch
+        // Forth update
     }
 }
